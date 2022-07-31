@@ -8,4 +8,4 @@
 - create and make changes to `.zshrc`
   - create `touch ~/.zshrc`
   - open `~/.zshrc`
-  - copy pasta the content in `zshrc.text`
+  - copy pasta the contents of `zshrc.text` into the zshrc file

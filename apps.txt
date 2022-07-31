@@ -3,7 +3,13 @@ Iterm
 Atom
 Sublime
 Gifski
+
+
+# - - - DESIGN
 Sip
+Figma
+Sketch
+
 
 # - - - UTILITY
 Flycut
@@ -20,3 +26,7 @@ Spotify
 # - - - SOCIAL / GAME
 Discord
 Steam
+
+
+# - - - ANTIVIRUS
+Malwarebytes
