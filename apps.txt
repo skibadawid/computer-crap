@@ -1,11 +1,22 @@
+# - - - FOR DEV WORKFLOW
 Iterm
 Atom
 Sublime
+Gifski
+Sip
+
+# - - - UTILITY
 Flycut
 AppCleaner
 Amphetamine
-Discord
-Steam
+iPack
+
+
+# - - - BROWSING / MUSIC 
 Chrome
 Spotify
 
+
+# - - - SOCIAL / GAME
+Discord
+Steam
