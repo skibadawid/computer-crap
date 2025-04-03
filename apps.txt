@@ -1,8 +1,8 @@
 # - - - FOR DEV WORKFLOW
 Iterm
-Atom
 Sublime
 Gifski
+Sip
 
 
 # - - - DESIGN
@@ -21,6 +21,12 @@ iPack
 # - - - BROWSING / MUSIC 
 Chrome
 Spotify
+
+
+# - - - PHOTOGRAPHY
+Capture One
+HeliconFocus
+Pixelmator Pro
 
 
 # - - - SOCIAL / GAME
