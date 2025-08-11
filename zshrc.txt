@@ -43,5 +43,7 @@ SPACESHIP_RUBY_SHOW=false
 
 # ALIAS
 alias zshconfig="open ~/.zshrc"
+alias cmp="git checkout main && git pull"
+
 # alias {PROJECT_NAME}="cd ~/Git/PROJECT"
 # alias open{PROJECT_NAME}="cd ~/Git/{PROJECT_NAME} && open {PROJECT_NAME}.xcworkspace"

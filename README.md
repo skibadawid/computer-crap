@@ -19,3 +19,10 @@
   - create `touch ~/.zshrc`
   - open `~/.zshrc`
   - copy pasta the contents of `zshrc.text` into the zshrc file
+
+- xcode themes
+  - open terminal and create directory `FontAndColorThemes`
+  `$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+  - add `.xccolortheme` files to it
+  - restard xcode
+
